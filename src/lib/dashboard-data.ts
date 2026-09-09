@@ -33,16 +33,7 @@ export const MONTH_LABEL = "Setembro / 2026";
 export const DISCOUNT_VALUE = 25;
 export const MEETING_DEADLINE = "2026-09-10";
 
-export const CLIENTS: string[] = [
-  "Ju Body",
-  "Izzy Burguer",
-  "Vanessa Premium",
-  "Emalteria Daniela",
-  "Poliana Campos",
-  "Elaine",
-  "Cleiziane",
-  "JOÃO TESTE",
-];
+export const CLIENTS: string[] = [];
 
 export const WEEK_STARTS = [
   "2026-08-31",
